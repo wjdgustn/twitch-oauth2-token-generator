@@ -1,0 +1,23 @@
+{
+  "name": "twitch-oauth-token-generator",
+  "version": "1.0.0",
+  "description": "Twitch oauth token generator.",
+  "main": "main.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node main"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wjdgustn/twitch-oauth2-token-generator.git"
+  },
+  "author": "Hyonsu",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/wjdgustn/twitch-oauth2-token-generator/issues"
+  },
+  "homepage": "https://github.com/wjdgustn/twitch-oauth2-token-generator#readme"
+}

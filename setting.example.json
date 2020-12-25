@@ -1,0 +1,9 @@
+{
+  "PORT": 80,
+  "USE_SSL": false,
+  "SSL_CERT": "CERT",
+  "SSL_KEY": "KEY",
+  "SESSION_SECRET": "secret",
+
+  "TWITCH_CLIENT_ID": "client id"
+}
